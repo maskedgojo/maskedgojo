@@ -11,7 +11,7 @@ I am a **B.Tech Computer Science and Engineering** student at **Kalinga Institut
 ## 🚀 Projects
 - **[Video Streaming Website](https://github.com/maskedgojo/Netflix-Clone/)** | HTML, CSS  
   *A sleek, user-friendly website that replicates Netflix's interface.*  
-- **[SONAR Rock vs Mine Prediction](https://github.com/yourproject)** | Python  
+- **[SONAR Rock vs Mine Prediction](https://github.com/maskedgojo/rock-vs-mine-prediction)** | Python  
   *A machine learning project to classify sonar signals as rocks or mines.*  
 - **[Pacman 2D Game](https://github.com/maskedgojo/Pacman)** | Java  
   *A classic arcade-style game where players navigate a maze and collect points.*  
