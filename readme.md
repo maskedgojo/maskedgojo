@@ -13,7 +13,7 @@ I am a **B.Tech Computer Science and Engineering** student at **Kalinga Institut
   *A sleek, user-friendly website that replicates Netflix's interface.*  
 - **[SONAR Rock vs Mine Prediction](https://github.com/yourproject)** | Python  
   *A machine learning project to classify sonar signals as rocks or mines.*  
-- **[Pacman 2D Game](https://github.com/yourproject)** | Java  
+- **[Pacman 2D Game](https://github.com/maskedgojo/Pacman)** | Java  
   *A classic arcade-style game where players navigate a maze and collect points.*  
 
 ## 🎖 Achievements & Extracurriculars
