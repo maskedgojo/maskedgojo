@@ -9,7 +9,7 @@ I am a **B.Tech Computer Science and Engineering** student at **Kalinga Institut
 - **Coursework:** Data Structures, Operating Systems, Object-Oriented Programming, Database Management Systems  
 
 ## 🚀 Projects
-- **[Video Streaming Website](https://github.com/yourproject)** | HTML, CSS  
+- **[Video Streaming Website](https://github.com/maskedgojo/Netflix-Clone/)** | HTML, CSS  
   *A sleek, user-friendly website that replicates Netflix's interface.*  
 - **[SONAR Rock vs Mine Prediction](https://github.com/yourproject)** | Python  
   *A machine learning project to classify sonar signals as rocks or mines.*  
